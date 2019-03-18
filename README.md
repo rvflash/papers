@@ -6,6 +6,7 @@ Lists of awesome papers to read, follow and more.
 
 ## Golang
 
+* [Behaviour-Driven Development in Golang](https://alicegg.tech/2019/03/09/gobdd.html) 2019-03 by Alice Girard
 * [Practical Go: Real world advice for writing maintainable Go programs](https://dave.cheney.net/practical-go/presentations/qcon-china.html) 2019-03 by Dave Cheney
 * [Go for Industrial Programming](https://peter.bourgon.org/go-for-industrial-programming/) 2018-09 by Peter Bourgon
 * [Style guideline for Go packages](https://rakyll.org/style-packages/) 2017-01 by rakyll
