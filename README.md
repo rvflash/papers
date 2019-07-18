@@ -10,6 +10,7 @@ Lists of awesome papers to read, follow and more.
 * [Behaviour-Driven Development in Golang](https://alicegg.tech/2019/03/09/gobdd.html) 2019-03 by Alice Girard
 * [Practical Go: Real world advice for writing maintainable Go programs](https://dave.cheney.net/practical-go/presentations/qcon-china.html) 2019-03 by Dave Cheney
 * [Go for Industrial Programming](https://peter.bourgon.org/go-for-industrial-programming/) 2018-09 by Peter Bourgon
+* [Allocation efficiency in high-performance Go services](https://segment.com/blog/allocation-efficiency-in-high-performance-go-services/) 2017-09 by Achille Roussel & Rick Branson
 * [Style guideline for Go packages](https://rakyll.org/style-packages/) 2017-01 by rakyll
 * [Standard Package Layout](https://medium.com/@benbjohnson/standard-package-layout-7cdbc8391fc1) 2016-10 by Ben Johnson
 * [Intro++ to Go Interfaces](https://npf.io/2014/05/intro-to-go-interfaces/) 2014-05 by Nate Finch
