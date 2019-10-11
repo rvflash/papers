@@ -6,6 +6,7 @@ Lists of awesome papers to read, follow and more.
 
 ## Golang
 
+* [Uber Go Style Guide](https://github.com/uber-go/guide/blob/master/style.md) 2019-10-11 by Uber Go team.
 * [An Overview of Go's Tooling](https://www.alexedwards.net/blog/an-overview-of-go-tooling) 2019-04 by Alex Edwards
 * [Behaviour-Driven Development in Golang](https://alicegg.tech/2019/03/09/gobdd.html) 2019-03 by Alice Girard
 * [Practical Go: Real world advice for writing maintainable Go programs](https://dave.cheney.net/practical-go/presentations/qcon-china.html) 2019-03 by Dave Cheney
