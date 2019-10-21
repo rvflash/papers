@@ -21,7 +21,7 @@ Lists of awesome papers to read, follow and more.
 
 
 ## Docker
-* [10 Docker Image Security Best Practices](https://snyk.io/blog/10-docker-image-security-best-practices/)
+* [10 Docker Image Security Best Practices](https://snyk.io/blog/10-docker-image-security-best-practices/) 2019-03 by Liran Tal, Omer Levi Hevroni 
 
 
 ## Monitoring / Alerting
