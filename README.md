@@ -7,6 +7,7 @@ Lists of awesome papers to read, follow and more.
 ## Golang
 
 * [Don't use build tags for integration tests](https://peter.bourgon.org/blog/2021/04/02/dont-use-build-tags-for-integration-tests.html) 2021-04 by Peter Bourgon.
+* [Test parallelization in Go](https://engineering.mercari.com/en/blog/entry/20220408-how_to_use_t_parallel/) 2020-08 by Yoshiki Shibata
 * [Uber Go Style Guide](https://github.com/uber-go/guide/blob/master/style.md) 2019-10 by Uber Go team.
 * [An Overview of Go's Tooling](https://www.alexedwards.net/blog/an-overview-of-go-tooling) 2019-04 by Alex Edwards.
 * [Behaviour-Driven Development in Golang](https://alicegg.tech/2019/03/09/gobdd.html) 2019-03 by Alice Girard.
