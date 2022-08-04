@@ -6,6 +6,7 @@ Lists of awesome papers to read, follow and more.
 
 ## Golang
 
+* [Easy memory-saving tricks in Go](https://www.ribice.ba/golang-memory-savings/) 2022-08 by Emir Ribic
 * [Don't use build tags for integration tests](https://peter.bourgon.org/blog/2021/04/02/dont-use-build-tags-for-integration-tests.html) 2021-04 by Peter Bourgon.
 * [Test parallelization in Go](https://engineering.mercari.com/en/blog/entry/20220408-how_to_use_t_parallel/) 2020-08 by Yoshiki Shibata
 * [Uber Go Style Guide](https://github.com/uber-go/guide/blob/master/style.md) 2019-10 by Uber Go team.
