@@ -6,6 +6,7 @@ Lists of awesome papers to read, follow and more.
 
 ## Golang
 
+* [How I write HTTP services in Go after 13 years](https://grafana.com/blog/2024/02/09/how-i-write-http-services-in-go-after-13-years/) 2024-02 by Mat Ryer
 * [Maps and Memory Leaks in Go](https://teivah.medium.com/maps-and-memory-leaks-in-go-a85ebe6e7e69) 2022-09 by Teiva Harsanyi
 * [Easy memory-saving tricks in Go](https://www.ribice.ba/golang-memory-savings/) 2022-08 by Emir Ribic
 * [Don't use build tags for integration tests](https://peter.bourgon.org/blog/2021/04/02/dont-use-build-tags-for-integration-tests.html) 2021-04 by Peter Bourgon.
