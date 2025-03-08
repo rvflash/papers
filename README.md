@@ -6,6 +6,7 @@ Lists of awesome papers to read, follow and more.
 
 ## Golang
 
+* [How to manage tool dependencies in Go 1.24+](https://www.alexedwards.net/blog/how-to-manage-tool-dependencies-in-go-1.24-plus) 2025-02 by Alex Edwards
 * [How I write HTTP services in Go after 13 years](https://grafana.com/blog/2024/02/09/how-i-write-http-services-in-go-after-13-years/) 2024-02 by Mat Ryer
 * [Maps and Memory Leaks in Go](https://teivah.medium.com/maps-and-memory-leaks-in-go-a85ebe6e7e69) 2022-09 by Teiva Harsanyi
 * [Easy memory-saving tricks in Go](https://www.ribice.ba/golang-memory-savings/) 2022-08 by Emir Ribic
