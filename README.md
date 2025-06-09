@@ -10,6 +10,7 @@ Lists of awesome papers to read, follow and more.
 * [How I write HTTP services in Go after 13 years](https://grafana.com/blog/2024/02/09/how-i-write-http-services-in-go-after-13-years/) 2024-02 by Mat Ryer
 * [Maps and Memory Leaks in Go](https://teivah.medium.com/maps-and-memory-leaks-in-go-a85ebe6e7e69) 2022-09 by Teiva Harsanyi
 * [Easy memory-saving tricks in Go](https://www.ribice.ba/golang-memory-savings/) 2022-08 by Emir Ribic
+* [I18n in Go: Managing Translations](https://www.alexedwards.net/blog/i18n-managing-translations) 2021-08 by Alex Edwards
 * [Don't use build tags for integration tests](https://peter.bourgon.org/blog/2021/04/02/dont-use-build-tags-for-integration-tests.html) 2021-04 by Peter Bourgon.
 * [Test parallelization in Go](https://engineering.mercari.com/en/blog/entry/20220408-how_to_use_t_parallel/) 2020-08 by Yoshiki Shibata
 * [Uber Go Style Guide](https://github.com/uber-go/guide/blob/master/style.md) 2019-10 by Uber Go team.
